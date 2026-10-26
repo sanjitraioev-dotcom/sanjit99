@@ -272,7 +272,7 @@ def start_buttons():
             )
         ],
     ])
-        ],
+    
     ])
 
 def buy_buttons():
