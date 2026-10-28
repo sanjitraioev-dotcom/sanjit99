@@ -15,7 +15,7 @@ from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandle
 # ==========================================================
 # BASIC SETTINGS
 # ==========================================================
-BOT_TOKEN = "8728296619:AAEoKkuzStcRUQG1EMN1mPurvopeTSg7P1o"
+BOT_TOKEN = "9260427892:AAG1y52MdyFWfMbRTwWGecwtZ6DW2dVVX_s"
 ADMIN_ID = 8853901359
 
 # Start page photo aur QR. Baad me apne links/file_id laga sakte ho.
